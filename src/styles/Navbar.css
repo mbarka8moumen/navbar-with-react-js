@@ -1,0 +1,54 @@
+.fixed-top{
+    position: relative;
+    left: 900px;
+    height: 57px;
+    
+}
+.ml-auto {
+    display: flex;
+    margin-left: 760px; 
+   
+  }
+  
+  .icon {
+    height: 20px;
+    width: 20px;
+    margin: 0 8px; 
+    
+  }
+  p{
+    font-size: 80px;
+    position: absolute;
+    left: 288px;
+    top: 100px;
+    font-family: Cormorant Unicase;
+  }
+  h2{
+    position: absolute;
+    left: 600px;
+    top: 220px;
+    font-size: 300px;
+    font-family: Cormorant Unicase;
+    border-bottom: 2px solid #000; /* 2px thick black line */
+    padding-bottom: 10px;
+  }
+  /* h1{
+    position: absolute;
+    left: 300px;
+    top: 30px;
+    color: white;
+
+  } */
+  .navbar-brand-left {
+    display: flex;
+    align-items: center;
+    margin-right: auto; /* Pushes it to the left */
+  }
+  
+  .navbar-brand-left h1 {
+    font-size: 1.8rem;
+    color: white;
+    margin: 0;
+    padding : 0 10px;
+    font-family: Crimson Pro;
+  }
